@@ -118,7 +118,7 @@ function IntroTunnel({ onDone }) {
 
       {/* Brand lockup — hidden during flight, revealed on the white screen */}
       <div className="intro-center">
-        <div className="intro-logo"><span>VCS Promoters & Developers</span><span>REALTY</span></div>
+        <div className="intro-logo"><span>VCS Promoters & Developers</span></div>
         <div className="intro-rule" />
         <div className="intro-sub">Real Estate Agency · Mohali</div>
       </div>

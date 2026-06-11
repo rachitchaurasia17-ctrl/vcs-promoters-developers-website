@@ -233,7 +233,7 @@ function BookingModal({ open, onClose }) {
               <Row k="Date"     v={fmtLong(date)} />
               <Row k="Time"     v={time || "—"} />
               <Row k="Interest" v={interest.length ? interest.join(", ") : "—"} />
-              <Row k="Office"   v="SCO 1, 2nd Floor · Sector 79 · SAS Nagar" />
+              <Row k="Office"   v="SCO No. 1013, Second Floor, Connaught Plaza, TDI City, Sector 74-A, S.A.S. Nagar" />
               <Row k="Duration" v="~45 minutes" />
               <Row k="Fee"      v={<span className="bm-comp">Complimentary</span>} />
 
